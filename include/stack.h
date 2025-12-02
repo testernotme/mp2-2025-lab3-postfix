@@ -20,7 +20,7 @@ private:
 	T* pmem;
 
 	void memrlc() {
-		capacity = capacity + capacity+1 ; // я не планирую часто реалоцировать, так что такая грубая оценка здесь не критична
+		capacity = capacity + capacity+1 ; // я не планирую часто реаллоцировать, так что такая грубая оценка здесь не критична
 		T* tpmem = new T[capacity];
 		std::copy(pmem, pmem + size, tpmem);
 		delete[] pmem;

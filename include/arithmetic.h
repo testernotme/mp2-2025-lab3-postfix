@@ -6,8 +6,8 @@ class TPostfix {
 	TStack<Lexem*> heap;
 	TStack<Lexem*> backPol;
 	void convetr_tobackPol();
-	double doMath(double op1, double op2, subType t);
-	double doMath(double op1, subType t);
+	double doMath(double op1, double op2, subType t);// выполнение для бинарных опреаторов
+	double doMath(double op1, subType t); // выполнение для унарных опреаторов
 public:
 	void parse(std::string s);
 	void setVar(std::string s, double data);

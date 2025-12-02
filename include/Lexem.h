@@ -51,7 +51,7 @@ public:
 	virtual subType getsubType() = 0;
 	virtual ~Lexem() = default;
 };
-class variable : public Lexem {
+class variable : public Lexem { // тип перемменая 
 	subType type;
 	std::string name;
 	double data;
@@ -65,14 +65,14 @@ public:
 	void setData(double t);
 	~variable();
 };
-class operation : public Lexem {
+class operation : public Lexem { // тип операция 
 	subType t;
 public:
 	double getData();
 	std::string getName();
 	void setData(double t);
-	operation(std::string s);
-	operation(char c);
+	operation(std::string s); //конструктор для бинарная операция
+	operation(char c); //конструктор для унарная операция
 	Type getType();
 	subType getsubType();
 };

@@ -7,8 +7,7 @@ int main()
 	
 	std::string s;
 	std::cin >> s;
-	TPostfix t("x");
-	t.setVar("x",12);
+	TPostfix t(s);
 	std::cout << t.solve();
 	return 0;
 }

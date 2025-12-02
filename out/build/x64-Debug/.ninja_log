@@ -15,3 +15,14 @@
 22	767	7863805947807813	test/CMakeFiles/postfix_test.dir/__/src/arithmetic.cpp.obj	399286ba1b072e9f
 767	1018	7863805955269569	test/postfix_test.exe	bbec956c29e124c9
 750	1183	7863805955090045	samples/postfix.exe	9b845effdb865012
+14	1237	7863811270730485	test/CMakeFiles/postfix_test.dir/__/src/arithmetic.cpp.obj	399286ba1b072e9f
+8	1257	7863811270730485	test/CMakeFiles/postfix_test.dir/__/src/Lexem.cpp.obj	33e438ad1921ebd
+21	1566	7863811270886697	test/CMakeFiles/postfix_test.dir/test_arithmetic.cpp.obj	7f51190eec867ec8
+29	1626	7863811270886697	test/CMakeFiles/postfix_test.dir/test_stack.cpp.obj	9bbf53d222a30e6d
+1630	1939	7863811286976674	test/postfix_test.exe	bbec956c29e124c9
+11	763	7863811327230960	samples/CMakeFiles/postfix.dir/__/src/Lexem.cpp.obj	55b3c3f642010b2a
+24	775	7863811327387184	samples/CMakeFiles/postfix.dir/main_arithmetic.cpp.obj	557bd4b7af9197c6
+17	780	7863811327387184	samples/CMakeFiles/postfix.dir/__/src/arithmetic.cpp.obj	8fe6ed259eb293f7
+781	982	7863811334935076	samples/postfix.exe	9b845effdb865012
+10	673	7863812787486989	samples/CMakeFiles/postfix.dir/main_arithmetic.cpp.obj	557bd4b7af9197c6
+674	912	7863812794048058	samples/postfix.exe	9b845effdb865012
