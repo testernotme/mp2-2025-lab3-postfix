@@ -1,5 +1,5 @@
 #include "arithmetic.h"
-#include<math.h>
+#include <cmath>
 // реализация функций и классов для вычисления арифметических выражений
 
 void TPostfix::convetr_tobackPol()
@@ -50,13 +50,13 @@ double TPostfix::doMath(double op1, subType t) {
 		return -op1 ;
 		break;
 	case usin:
-		return sin( op1) ; break;
+		return std::sin( op1) ; break;
 	case ucos:
-		return cos(op1) ; break;
+		return std::cos(op1) ; break;
 	case utg:
-		return tan(op1); break;
+		return std::tan(op1); break;
 	case usqrt:
-		return sqrt( op1); break;
+		return std::sqrt( op1); break;
 	default:
 		break;
 	}

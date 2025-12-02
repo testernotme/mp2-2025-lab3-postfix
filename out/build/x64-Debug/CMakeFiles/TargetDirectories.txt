@@ -1,0 +1,11 @@
+C:/Users/T2037/source/repos/testernotme/mp2-2025-lab3-postfix/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/T2037/source/repos/testernotme/mp2-2025-lab3-postfix/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/T2037/source/repos/testernotme/mp2-2025-lab3-postfix/out/build/x64-Debug/samples/CMakeFiles/postfix.dir
+C:/Users/T2037/source/repos/testernotme/mp2-2025-lab3-postfix/out/build/x64-Debug/samples/CMakeFiles/edit_cache.dir
+C:/Users/T2037/source/repos/testernotme/mp2-2025-lab3-postfix/out/build/x64-Debug/samples/CMakeFiles/rebuild_cache.dir
+C:/Users/T2037/source/repos/testernotme/mp2-2025-lab3-postfix/out/build/x64-Debug/test/CMakeFiles/postfix_test.dir
+C:/Users/T2037/source/repos/testernotme/mp2-2025-lab3-postfix/out/build/x64-Debug/test/CMakeFiles/edit_cache.dir
+C:/Users/T2037/source/repos/testernotme/mp2-2025-lab3-postfix/out/build/x64-Debug/test/CMakeFiles/rebuild_cache.dir
+C:/Users/T2037/source/repos/testernotme/mp2-2025-lab3-postfix/out/build/x64-Debug/gtest/CMakeFiles/gtest.dir
+C:/Users/T2037/source/repos/testernotme/mp2-2025-lab3-postfix/out/build/x64-Debug/gtest/CMakeFiles/edit_cache.dir
+C:/Users/T2037/source/repos/testernotme/mp2-2025-lab3-postfix/out/build/x64-Debug/gtest/CMakeFiles/rebuild_cache.dir
